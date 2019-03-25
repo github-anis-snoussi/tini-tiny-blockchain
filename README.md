@@ -6,4 +6,6 @@ https://dev.to/aunyks/lets-build-the-tiniest-blockchain <br>
 https://dev.to/aunyks/lets-make-the-tiniest-blockchain-bigger
 
 <br>
+## Preview
+
 ![Alt Text](https://i.imgur.com/LURwOPZ.png)
